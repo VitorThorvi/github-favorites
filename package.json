@@ -1,9 +1,23 @@
 {
   "dependencies": {
     "lite-server": "^2.6.1"
-  }
-},
-"main": "main.js",
-"scripts": {
-"start": "lite-server"
+  },
+  "name": "github-favorites",
+  "description": "��#\u0000 \u0000g\u0000i\u0000t\u0000h\u0000u\u0000b\u0000-\u0000f\u0000a\u0000v\u0000o\u0000r\u0000i\u0000t\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorThorvi/github-favorites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorThorvi/github-favorites/issues"
+  },
+  "homepage": "https://github.com/VitorThorvi/github-favorites#readme"
 }
