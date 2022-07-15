@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+},
+"main": "main.js",
+"scripts": {
+"start": "lite-server"
+}
